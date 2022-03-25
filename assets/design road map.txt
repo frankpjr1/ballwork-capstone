@@ -1,0 +1,21 @@
+design  user map what will they accomplish or how will they use my app to accomplish their goal
+
+
+========================================================================
+
+list your GitHub issues
+As a user I want to login so that I can log my workouts
+Login to check friends score
+As user see what app is about
+
+
+========================================================================
+
+
+design mockups/clickthrough
+
+
+========================================================================
+
+write code issue by issue
+pick one issue at a time 
